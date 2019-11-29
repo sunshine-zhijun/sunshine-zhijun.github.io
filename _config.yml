@@ -3,26 +3,26 @@ title: sunshine
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: sunzhijun
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 学习工作 / 生活分享
 url: "http://sunshine-zhijun.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: sunshine
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 187***** 
+    github: sunshine-zhijun
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: ***
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 1932895148@qq.com
 
 
 # 百度统计 
@@ -64,12 +64,12 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于我啊, description: about, url: '/about'}      
     
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 20
+paginate: 10
 paginate_path: "page/:num/"
 
 
