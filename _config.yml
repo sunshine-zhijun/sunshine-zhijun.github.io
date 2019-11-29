@@ -3,7 +3,7 @@ title: sunshine
 subtitle: 我的博客
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: sunshine
 # 头像里面的描述
 avatarDesc: 私人博客/生活学习
 url: "http://sunshine-zhijun.github.io"
@@ -64,7 +64,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于me, description: about, url: '/about'}      
     - {title: write, description: about,url:'/about'}
 
 # Pagination
