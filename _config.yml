@@ -69,11 +69,6 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 音乐, description: music, url: '/music'}   
     - {title: 标签, description: tags, url: '/tags'} 
-    - {title: 标签, description: tags, url: '/tags'} 
-    - {title: 标签, description: tags, url: '/tags'} 
-    - {title: 标签, description: tags, url: '/tags'} 
-    - {title: 标签, description: tags, url: '/tags'} 
-    - {title: 标签, description: tags, url: '/tags'} 
     - {title: 关于我啊, description: about, url: '/about'}      
     
 
