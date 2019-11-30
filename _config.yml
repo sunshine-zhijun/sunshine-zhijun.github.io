@@ -10,10 +10,16 @@ url: "http://sunshine-zhijun.github.io"
 
 # Comment
 comment:
-    disqus: sunshine
+    disqus: false
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
-
+    gitalk: true
+    gitalk_clientID: 'f55482c1d2703fece2d6'
+    gitalk_Secret: 'cce93f19740cb7e03784251e48c1aba985bc5587'
+    gitalk_repo: 'sunshine-zhijun.github.io'
+    gitalk_owner: 'sunshine-zhijun'
+    gitalk_admin: 'sunshine-zhijun'
+    distractionFreeMode: true
 # Social
 social:
     weibo: 187 
