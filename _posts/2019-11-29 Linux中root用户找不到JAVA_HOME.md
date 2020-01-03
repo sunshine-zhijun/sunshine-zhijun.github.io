@@ -3,7 +3,7 @@ layout: post
 title: 2019-11-29 Linux中root用户找不到JAVA_HOME
 date: 2019-11-29
 description: "。。。"
-tag: 博客 
+tag: 学习 linux
 renderNumberedHeading: true
 grammar_cjkRuby: true
 ---   
