@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020-01-03 Linux中root用户找不到JAVA_HOME
+title: 2020-01-03-Linux中root用户找不到JAVA_HOME
 date: 2020-01-03
 description: "。。。"
 tag: 学习 linux
