@@ -9,6 +9,9 @@ grammar_cjkRuby: true
 ---   
 ### 概述：
 ><p>linux普通用户安装了java，切换到root用户却提示找不到java环境 </p>
+``` javascript
+browser.sh: 12: browser.sh: java: not found
+```
 
 ### 原因及解决方案  
 >在Ubuntu环境中安装好Java环境后设置环境变量：在/etc/profile中设置好了JAVA_HOME变量并引入到PATH中，用于Ubuntu默认是不以root用户登录的，这时echo $PATH可以看到JAVA_HOME已经被设置好了，java命令也可以执行。
